@@ -14,3 +14,12 @@
 #### When you are done your page should look like this:
 ![Sample Editor Done](images/MA4.PNG)
 #### And then click submit
+#### 8. Click proceed
+#### 9. We will perform the rarefiy the data by selecting the "Rarefy to the minimum library size" option but we will keep the other default options; click submit and then proceed.
+#### 10. Now we have arrived at the Analysis Methods Tree. There are many kinds of analyses you can perform here but we will try just two: stacked bar plots and alpha diversity analysis. Let's start with stacked bar plots. Click on "Stacked bar/area plot" (the top leaf of the tree). First let's see how bacterial abundance differs between three groups of patients: short-term, medium-term, and long-term hospitalization durations. Change the options to those seen here:
+![Sample Editor Done](images/MA6.PNG)
+#### And then click submit. You'll see that there are a lot of bars; take a look and figure out what the different colors mean? Can you notice any patterns? It might be kind of hard to figure out the patterns since there are so many samples so let's merge the samples to groups with the following changes to parameters: 
+![Sample Editor Done](images/MA5.PNG)
+#### The axis is rearranged in a slightly unhelpful way but you can see, for example, that the abundance of the genus bacilli decreases as hospitalization duration increases.
+#### 11. At the top click on "Analysis Overview" to return to the tree we saw before. Go to "Alpha Diversity" and set the options to what you see here:
+![Alpha Diversity Options](images/MA7.PNG)
