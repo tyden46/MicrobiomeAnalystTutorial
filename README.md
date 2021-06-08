@@ -23,3 +23,6 @@
 #### The axis is rearranged in a slightly unhelpful way but you can see, for example, that the abundance of the genus bacilli decreases as hospitalization duration increases.
 #### 11. At the top click on "Analysis Overview" to return to the tree we saw before. Go to "Alpha Diversity" and set the options to what you see here:
 ![Alpha Diversity Options](images/MA7.PNG)
+#### Alpha diversity (measured by Simpson's Diversity Index) at genus level is significant (if we set our alpha to 0.2 for a discovery study) between those that experience shortness of breath and those who don't
+
+### There's lot's more to explore using MicrobiomeAnalyst, check it out for yourself!
