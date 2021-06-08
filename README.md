@@ -12,5 +12,5 @@
 #### 7. Navigate to the "Sample Editor" tab and we will remove 323 and 276 like we said we would in step 4. To do this find the samples from the list on the left, select them one at a time by clicking on them, and then press the top arrow that points to the right.
 ![Sample Editor](images/MA3.PNG)
 #### When you are done your page should look like this:
-![Sample Editor Done](images/MA3.PNG)
+![Sample Editor Done](images/MA4.PNG)
 #### And then click submit
